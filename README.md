@@ -3,6 +3,7 @@
 
 A complete list of papers from any field that have received 10,000 citations.
 
+## Papers / Books
 **Very Deep Convolutional Networks for Large-Scale Image Recognition** \
 *Karen Simonyan, Andrew Zisserman* \
 [[arXiv](https://arxiv.org/abs/1409.1556)], [[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UZ5wscMAAAAJ&citation_for_view=UZ5wscMAAAAJ:v_tt_AnqfNMC)] \
@@ -17,3 +18,9 @@ A complete list of papers from any field that have received 10,000 citations.
 *Mark Everingham, Luc Van Gool, Christopher K. I. Williams, John Winn, Andrew Zisserman* \
 [[PDF](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/PascalVOC_IJCV2009.pdf)], [[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UZ5wscMAAAAJ&citation_for_view=UZ5wscMAAAAJ:WqliGbK-hY8C)] \
 09 Sep 2009 (22k citations as of 14 May 2024)
+
+## Ranking (i10k-index) 
+Yoshua Bengio: 17 \
+Kaiming He: 12 \
+Andrew Zisserman: 3 \
+Luc Van Gool: 2
