@@ -1,7 +1,7 @@
 # Awesome-10k-Citations
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A complete list of papers from any field that have received 10,000 citations.
+A complete list of papers or books from any field that have received 10,000 citations.
 
 ## Papers / Books
 **Very Deep Convolutional Networks for Large-Scale Image Recognition** \
