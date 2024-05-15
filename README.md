@@ -22,5 +22,6 @@ A complete list of papers or books from any field that have received 10,000 cita
 ## Ranking (i10k-index) 
 Yoshua Bengio: 17 \
 Kaiming He: 12 \
+Ian Goodfellow: 6 \
 Andrew Zisserman: 3 \
 Luc Van Gool: 2
